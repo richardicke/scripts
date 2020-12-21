@@ -3,6 +3,14 @@
 
 def generate(rule):
     sizes = {
+        'xxl': {
+            'vert': 1.56,
+            'hor': 1.56,
+        },
+        'xl': {
+            'vert': 1.25,
+            'hor': 1.25,
+        },
         'default': {
             'vert': 0.9375,
             'hor': 0.9375,
