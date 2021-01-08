@@ -4,24 +4,24 @@
 def generate(rule):
     sizes = {
         'xxl': {
-            'vert': 1.56,
-            'hor': 1.56,
+            'vert': 1.875,
+            'hor': 1.875,
         },
         'xl': {
             'vert': 1.25,
             'hor': 1.25,
         },
         'default': {
-            'vert': 0.9375,
-            'hor': 0.9375,
+            'vert': 0.938,
+            'hor': 0.938,
         },
         'sm': {
             'vert': 0.625,
             'hor': 0.625,
         },
         'xs': {
-            'vert': 0.3125,
-            'hor': 0.3125,
+            'vert': 0.313,
+            'hor': 0.313,
         }
     }
 
